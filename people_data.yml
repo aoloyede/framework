@@ -1,0 +1,28 @@
+:people:
+    - :fname: Abi 
+      :surname: Oloyede 
+      :dob: 4 Oct 1992 
+      :emails: 
+        - asoloyede1992@hotmail.com
+        - aoloyede@testingcircle.com
+      :phones: 
+        - 07944595288
+      
+    - :fname: Romeo 
+      :surname: Ledesma 
+      :dob: 2 Oct 1990
+      :emails: 
+        - rledesma@testingcircle.com 
+      :phones: 
+        - 0771234589
+        - 02076393434
+        
+    - :fname: Jane 
+      :surname: Kempton 
+      :dob: 10 May 1963
+      :emails: 
+        - jkempton@testingcircle.com
+      :phones: 
+        - 07956530148
+        - 02036548798
+      
